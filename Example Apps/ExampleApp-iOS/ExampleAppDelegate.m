@@ -5,7 +5,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    // 2. Create the tab footer and add the UIWebView example
+    // 2. Create the tab footer and add the example
     UITabBarController *tabBarController = [[UITabBarController alloc] init];
     
     // 3. Create the  WKWebView example for devices >= iOS 8
